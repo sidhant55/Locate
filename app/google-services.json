@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1049744820600",
+    "project_id": "locate-180213"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049744820600:android:ddbd97d6dd4efab0",
+        "android_client_info": {
+          "package_name": "com.example.sidhant.locate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049744820600-6emn6fp5hmqs7vn3ngr43bbir9853c5o.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1049744820600-iqqpmllh06b81jnu05kpf6l04pkeutgi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sidhant.locate",
+            "certificate_hash": "2d75bbeab2fd89abbe58897359914c8dbe93a16f"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_AtDjlqvkn3Rb68CbrxZN-C5cwvBtX-g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
